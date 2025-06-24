@@ -1,4 +1,4 @@
 # Financial-Agent
 Agentic Ai using Phidata
-1. multiageents
+1. multiagents
 2. api calling
